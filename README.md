@@ -12,7 +12,7 @@ Previously an Engineering Manager at a **satellite engineering team (KAAN SAT)**
 `Python` `Pandas` `NumPy` `Scikit-learn` `SciPy` `Statsmodels`
 
 **Visualization**
-`Matplotlib` `Seaborn` `Power BI (learning)` `Tableau (basic)`
+`Matplotlib` `Seaborn` `Power BI`
 
 **Engineering**
 `SQL` `FastAPI` `Git` `GitHub` `OOP` `C++` `R`
