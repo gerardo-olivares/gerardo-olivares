@@ -45,7 +45,7 @@ Regression model on 64,000+ Airbnb listings across 6 U.S. cities. Full EDA, outl
 
 ---
 
-## 📫 Contact
+## 📫 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gerardo--olivares--mijares-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gerardo-olivares-mijares)
 [![Email](https://img.shields.io/badge/Email-gerarolivares07@gmail.com-red?style=flat-square&logo=gmail)](mailto:gerarolivares07@gmail.com)
